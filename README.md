@@ -1,0 +1,2 @@
+# NvChadCustom
+Neovim config
